@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@octokit/rest": "^19.0.7",
-    "@roots/bud": "5.8.7",
+    "@roots/bud": "6.12.3",
     "@roots/bud-tailwindcss": "5.8.7",
     "@roots/sage": "5.8.7",
     "archiver": "^5.3.1",
@@ -41,7 +41,7 @@
     "yaml": "^2.2.1"
   },
   "dependencies": {
-    "aws-sdk": "^2.1302.0",
+    "aws-sdk": "^2.1389.0",
     "dotenv": "^16.0.3"
   }
 }
